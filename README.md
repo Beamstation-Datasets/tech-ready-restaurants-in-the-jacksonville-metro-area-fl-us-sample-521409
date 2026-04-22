@@ -9,9 +9,9 @@
 | Dataset ID | `521409` |
 | Location | Jacksonville, FL |
 | Category | Restaurants |
-| Full dataset size | 16 records |
-| Free sample size | 1 records (6.25%) |
-| Last export | 2026-04-15T10:51:22.513839+00:00 |
+| Full dataset size | 4 records |
+| Free sample size | 1 records (25.0%) |
+| Last export | 2026-04-22T18:54:59.951265+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-jacksonville-metro-area-fl-us-sample-521409/releases/download/sample-latest/beamstation_521409_restaurants-us-jacksonvillefl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
