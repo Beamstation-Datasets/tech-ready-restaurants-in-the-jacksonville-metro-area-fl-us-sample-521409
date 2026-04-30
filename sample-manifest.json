@@ -1,12 +1,12 @@
 {
-  "export_job_id": "11f34646-73a8-4594-9e6d-53db88c0453b",
+  "export_job_id": "29c6bce8-a4f0-4604-a3b4-ecec528d353c",
   "id_short": 521409,
-  "published_at": "2026-04-22T19:51:18Z",
+  "published_at": "2026-04-30T07:33:38Z",
   "repo_name": "tech-ready-restaurants-in-the-jacksonville-metro-area-fl-us-sample-521409",
   "sample_asset_name": "beamstation_521409_restaurants-us-jacksonvillefl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/521409/beamstation_521409_restaurants-us-jacksonvillefl_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "3fba39644d06ff40d4ec0ad3c1b1f76a2ced1e9332cb83e9e8da3aec008d3b52",
-  "sample_size_bytes": 20039,
-  "total_records": 4
+  "sample_records": 17,
+  "sample_sha256": "f9f9f160afa67f96b5da8c59bba8279c8b94ee668ad3b666e59df9eb0cea04f0",
+  "sample_size_bytes": 78565,
+  "total_records": 170
 }
