@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Jacksonville Metro Area, FL, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 17 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `521409` |
 | Location | Jacksonville, FL |
 | Category | Restaurants |
-| Full dataset size | 4 records |
-| Free sample size | 1 records (25.0%) |
-| Last export | 2026-04-22T18:54:59.951265+00:00 |
+| Full dataset size | 170 records |
+| Free sample size | 17 records (10.0%) |
+| Last export | 2026-04-29T18:06:08.534774+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-jacksonville-metro-area-fl-us-sample-521409/releases/download/sample-latest/beamstation_521409_restaurants-us-jacksonvillefl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
